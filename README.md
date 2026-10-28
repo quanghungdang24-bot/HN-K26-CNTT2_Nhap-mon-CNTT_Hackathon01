@@ -4,3 +4,14 @@
 ## Bảng Giá
 | Gói vệ sinh cơ bản | |
 | --- | --- |
+| media | Hình ảnh quảng bá |
+| docs | Thông tin khách hàng |
+## Code block
+```terminal
+ls -aR
+```
+## Task list cần hoàn thành
+- [X] : Lọc dữ liệu website
+- [ ] : Thiết kế giao diện người dùng
+
+> Lưu ý: Không upload file .env lên github
