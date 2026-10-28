@@ -1,0 +1,6 @@
+===TONG HOP LOG===
+2026-06-28 08:33:31 [WARNING] Anh chup may dung luong lon
+2026-06-28 08:37:31 [WARNING] Thoi gian phan hoi cham
+2026-06-28 08:45:31 [WARNING] Linh kien RAM sap het
+2026-06-28 09:09:31 [WARNING] Anh chup may dung luong lon
+       6
