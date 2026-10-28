@@ -16,6 +16,8 @@ ls -aR
 mv quy_dinh_bao_hanh.txt docs
 mv logo_sua_may_tinh.png media
 rm temp_241.tmp
+ls logs
+ls -aR
 
 ```
 
